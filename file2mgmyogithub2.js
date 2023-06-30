@@ -1,1 +1,2 @@
-this is new js 
+// this is new js  
+console.log("Welcome to js");
